@@ -1,7 +1,5 @@
 # Full Stack E-Commerce App
 
-![E-Commerce App](https://github.com/pro4castinator/ecommerce-store/assets/23248726/088760cb-837d-44b7-a959-63089385d0a0)
-
 Explore the live **[DEMO](https://next13-ecommerce-store.vercel.app/)** 
 
 Welcome to the Full Stack E-Commerce App project built on Next.js 13. This comprehensive application utilizes various technologies, including Next.js, React, Tailwind CSS, Prisma, and MySQL.
